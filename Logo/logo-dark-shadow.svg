@@ -12,14 +12,11 @@
         </filter>
     </defs>
     
-    <!-- 背景 - 已修改为白色 -->
-    <rect width="400" height="200" fill="#FFFFFF" rx="20" ry="20" />
-    
     <!-- 文本 -->
     <text x="200" y="100" font-family="Cinzel, serif" font-size="48" font-weight="600" text-anchor="middle" fill="url(#tealGradient)" filter="url(#glow)">
         PrometheusX
     </text>
-    <text x="200" y="130" font-family="Cinzel, serif" font-size="16" font-style="italic" text-anchor="middle" fill="rgba(0, 122, 135, 0.7)">
+    <text x="200" y="130" font-family="Cinzel, serif" font-size="16" font-style="italic" text-anchor="end" fill="rgba(0, 122, 135, 0.7)">
         Ignis Divinus Furatur
     </text>
 </svg>

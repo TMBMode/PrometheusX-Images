@@ -10,7 +10,6 @@
             <feComposite in="SourceGraphic" in2="blur" operator="over" />
         </filter>
     </defs>
-    <rect width="400" height="200" fill="#FFFFFF" rx="20" ry="20" />
     <text x="200" y="100" font-family="Cinzel, serif" font-size="48" font-weight="600" text-anchor="middle" fill="url(#coralGradient)" filter="url(#glow)">PrometheusX</text>
-    <text x="200" y="140" font-family="Cinzel, serif" font-size="16" font-style="italic" text-anchor="middle" fill="rgba(153, 77, 77, 0.7)">Ignis Divinus Furatur</text>
+    <text x="200" y="130" font-family="Cinzel, serif" font-size="16" font-style="italic" text-anchor="end" fill="rgba(153, 77, 77, 0.7)">Ignis Divinus Furatur</text>
 </svg>
